@@ -216,6 +216,5 @@
     <footer>
         &copy; 2024 Website Kelas IX - 8. All rights reserved.
     </footer>
-    <script src="Senpan.js"></script>
 </body>
 </html>
